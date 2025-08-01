@@ -1,6 +1,9 @@
 # Ask The Clock
 `ask-the-clock` is a program that helps you make decisions.
 
+## Feature
+- This program generates a hardware-based random number. It returns *Yes* if the number is >= 5, and *No*' if it's < 5.
+
 ## How to use
 ```shell
 > asktheclock Should we eat chicken today?
