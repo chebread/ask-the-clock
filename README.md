@@ -6,7 +6,7 @@
 
 ## How to use
 ```shell
-> asktheclock Should we eat chicken today
+> ask-the-clock Should we eat chicken today
 Yes
 ```
 Make decisions by entering one or more questions questions, or running this program empty for an instant choice.
