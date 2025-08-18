@@ -1,4 +1,7 @@
 # Ask The Clock
+
+[[English](README.md)]
+
 `ask-the-clock` 은 당신이 결정을 내리는 데 도움을 주는 프로그램입니다.
 
 ## 기능
