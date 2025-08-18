@@ -32,4 +32,4 @@ brews:
     license: "MIT"
 
     install: |
-      bin.install "battime"
+      bin.install "ask-the-clock"
